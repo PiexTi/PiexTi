@@ -21,14 +21,6 @@
 
 ---
 
-### 🐍 Snake Game de Contribuições
-
-<p align="center">
-  <img src="https://github.com/PiexTi/PiexTi/raw/output/github-contribution-grid-snake.svg" alt="snake game" />
-</p>
-
-
----
 ### 🌐 Onde me encontrar
 
 <p align="left">
